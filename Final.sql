@@ -1,5 +1,5 @@
 /*
-  * PARCIAL FNAL Administración Administración de Base de Datos Avanzada 2018-2 Mañana
+  * PARCIAL FINAL Administración Administración de Base de Datos Avanzada 2018-2 Mañana
   * Johan Stiven Diaz Cortinez 
 */
 
