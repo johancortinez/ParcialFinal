@@ -1,12 +1,9 @@
 /*
   * PARCIAL FNAL Administración Administración de Base de Datos Avanzada 2018-2 Mañana
-  * Johan Stiven Diaz Cortinez
-  
+  * Johan Stiven Diaz Cortinez 
 */
 
-/*
-Funcion 1
-*/
+/*Funcion 1*/
 CREATE OR REPLACE FUNCTION CALCULAR_CAJAS_NECESARIAS(ITEMS IN INTEGER, BIG_BOX IN INTEGER, LITLE_BOX IN INTEGER)
 RETURN INTEGER AS
   NUM_BIG_BOX INTEGER := 0;
